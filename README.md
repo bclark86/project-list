@@ -65,4 +65,4 @@ MOOCs Coursework
 
 -   Business Science [DS4B 201-R: Data Science For Business With
     R](https://university.business-science.io/p/hr201-using-machine-learning-h2o-lime-to-predict-employee-turnover)
-    code [files](https://github.com/bclark86/Business-Science)
+    ([code files](https://github.com/bclark86/Business-Science))
