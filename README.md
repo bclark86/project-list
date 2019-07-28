@@ -17,7 +17,7 @@ use-case into a flexible product that others can use.
 
 -   [LinkedIn
     Post](https://www.linkedin.com/feed/update/urn:li:activity:6541057806781550592)
-    (16,000+ views and 500+ engagements)
+    (16,000+ views and 450+ engagements)
 
 -   [Published Blog
     Article](https://www.business-science.io/business/2019/06/09/Wedding-Risk-Model-App.html)
