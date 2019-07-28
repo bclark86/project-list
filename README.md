@@ -48,6 +48,9 @@ Misc. Projects
 These are mini-projects I’ve completed to answer random questions and/or
 apply a new skill.
 
+-   [Citi Bike Daily User
+    Prediction](https://github.com/bclark86/citi-bike/RidesPrediction.html)
+
 -   [NFL Head Coach Hypothesis
     Test](https://github.com/bclark86/nfl_head_coach_test)
 
