@@ -4,7 +4,7 @@ Overview
 
 This repository acts as a centralized hub to link to various personal
 projects developed in my pursuit of knowledge in the world of applied
-statistics, analytics, machine learning.
+statistics, advanced analytics, and machine learning.
 
 Wedding Guest Risk Modeling
 ---------------------------
